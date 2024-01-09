@@ -1,4 +1,5 @@
 # ExpenseTracker
+This application works better on Windows
 In the creation of a personal expense tracker app, my goal was to deliver a tool for understanding and managing finances. 
 The app incorporates a login/signup feature to safeguard users' privacy.
 To provide users with a realistic experience, I opted for manual input of expenses on the main page. 
