@@ -10,5 +10,11 @@ Moving beyond mere expense tracking, the app offers dynamic chart visualizations
 Users can configure charts by selecting time periods and specific categories. 
 The charts cover monthly expenses, budget summaries, expense trends, and a pie chart detailing category proportions.
 Upon entering the chart configuration page, users can further customize their analysis by choosing specific time frames and categories. 
-The subsequent chart display includes a bar chart illustrating monthly expenses and budget, a total balance overview, a line graph depicting expense trends, 
-and a pie chart showcasing category distribution.
+The subsequent chart display includes a bar chart illustrating monthly expenses and budget, a total balance overview, a line graph depicting expense trends, and a pie chart showcasing category distribution.
+
+<img width="523" alt="LoginSignupPage" src="https://github.com/TommasoGuasti1/ExpenseTracker/assets/155632465/35c25f02-502c-45a5-830d-1258382d2226">
+
+<img width="524" alt="HomePage2" src="https://github.com/TommasoGuasti1/ExpenseTracker/assets/155632465/05ce678e-8712-462d-ba71-fb1817ca2d79">
+
+
+<img width="791" alt="ChartPage" src="https://github.com/TommasoGuasti1/ExpenseTracker/assets/155632465/4d02d7fd-3cbe-4e40-a8b4-6a0e53433129">
